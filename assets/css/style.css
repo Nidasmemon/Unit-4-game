@@ -1,0 +1,76 @@
+body {
+    background-image: url("../images/tealBackground.jpg");
+}
+
+#header {
+    background-color: chocolate;
+    width: 20%;
+    color: white;
+    padding: 10px;
+    margin-bottom: 10px;
+}
+
+#instructions {
+    width: 45%;
+    background-color: lightyellow;
+    color: rgb(42, 158, 104);
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    font-weight: bold;
+    padding: 10px;
+    margin-bottom: 10px;
+}
+
+#container {
+    /* background-color: white; */
+    width: 25%;
+    height: 100px;
+    margin-bottom: 30px;
+}
+
+#random {
+    float: left;
+    width: 50%;
+    height: 100px;
+    font-size: 26px;
+    background-color: rgb(19, 221, 154);
+    margin-right: 5px;
+    padding: 10px;
+}
+
+#winsLosses {
+    background-color: rgb(73, 234, 255);
+    width: 30%;
+    height: 100px;
+    font-size: 20px;
+    float: right;
+    margin-left: 5px;
+    line-height: 40px;
+    padding: 10px;
+}
+
+img {
+    background-color: white;
+    margin-right: 10px;
+    padding: 10px;
+}
+
+#scoreText {
+    background-color: rgb(9, 156, 156);
+    color: white;
+    font-size: 20px;
+    width: 15%;
+    padding: 10px;
+    margin-top: 10px;
+}
+
+#scoreNumber {
+    background-color: rgb(9, 156, 156);
+    color: white;
+    font-size: 30px;
+    width: 15%;
+    height: 100px;
+    padding: 10px;
+    margin-top: 10px;
+    margin-bottom: 20px;
+}

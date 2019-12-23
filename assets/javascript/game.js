@@ -1,3 +1,5 @@
+$(document).ready(function() {
+ 
  // Declaring variables to hold the score, and the number of wins and losses.
  var scoreNum = 0;
  var wins = 0;
@@ -60,7 +62,7 @@
 }
 
 
-$(document).ready(function() {
+
 
 
     // Assigning random numbers to start the game and to the crystals. 
